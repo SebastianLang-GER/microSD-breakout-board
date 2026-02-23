@@ -30,4 +30,5 @@ The impedance was calculated for the standard 2 layer, 0.8 mm stack-up from JLCP
 
 ## Licence
 This repository is in public domain.  
-[Read more](/LICENSE)
+[Read more](/LICENSE)  
+![open source hardware logo](https://github.com/OSHW/logo/blob/master/oshw.png)
