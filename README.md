@@ -10,7 +10,7 @@ The PCB is optimized for signal integrity with coplanar single ended impedance m
 ## Components  
 Two optional components can be placed on the PCB:
 - microSD card header `Molex 475710001`
-- 2x8 2.54 mm pin header (e.g. `Molex 10897080`)
+- 2x4 2.54 mm pin header (e.g. `Molex 10897080`)
 
 ## Manufacturing
 The PCB has the following properties:
