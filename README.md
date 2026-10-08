@@ -1,4 +1,4 @@
-# microSD-breakout-board
+# microSD breakout board
 This is a compact microSD breakout board for both directions.  
 It can also be used as a sniffer in between a host and a microSD card for analyzing signals or performing tests.  
 The PCB is optimized for signal integrity with coplanar single ended impedance matching (50 Ω ±10 %).  
